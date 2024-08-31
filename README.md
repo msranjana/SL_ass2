@@ -40,7 +40,7 @@ To run this project locally, you will need:
    git clone https://github.com/your-username/sl-assignment-2.git
 2. Navigate to the project directory:
    ```bash
-cd sl-assignment-2
+   cd sl-assignment-2
 3. Open index.html in your web browser to view the website
 
 
