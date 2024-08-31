@@ -1,8 +1,8 @@
-# SL_ass2
-# BookHive
-# SL Assignment 2 - Website
 
-Welcome to the SL Assignment 2 website! This website serves as a demonstration of the project for the skill lab assignment by TCE.
+# BookHive
+
+
+### Welcome to the BookHive-A honeycomb of good reads! This website serves as a demonstration of the project for the skill lab assignment by TCE.###
 
 ## Live Demo
 
