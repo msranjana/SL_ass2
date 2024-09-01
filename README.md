@@ -6,7 +6,7 @@
 
 ## Live Demo
 
-You can view the live version of the website [here](https://sl-ass2.vercel.app/index.html).
+You can view the live version of the website [here](https://bookhive-slass2.vercel.app/).
 
 ## Project Overview
 
