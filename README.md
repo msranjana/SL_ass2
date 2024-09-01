@@ -58,9 +58,6 @@ Open a pull request to the main branch.
 License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-### Acknowledgements
-Thanks to [Your Name] for the design and development of this website.
-Resources used: [List any resources, tutorials, or libraries used].
 
 ### Key Sections Explained:
 - **Live Demo**: Provides a direct link to the hosted version of the website.
